@@ -2,7 +2,8 @@ Hero Unit with Background Image
 This project is a simple and modern hero section built with Bootstrap 5. 
 It features a full-width background image with a centered heading, description text, and action buttons.
 
- 📸 Preview
+ 📸 Preview Link:
+ https://thaps72.github.io/hero-unit-with-background-image/
 
  📸 Screenshot 
  <img width="1440" height="900" alt="Screenshot 2025-07-21 at 05 47 50" src="https://github.com/user-attachments/assets/8da0c1bb-d563-4971-8b79-b463ab1be96f" />
